@@ -35,5 +35,11 @@ Is hiding complexity from the user and exposing useful/necessary parts to get so
 
 An example would be turning on a microwave using the start button. We don't need to know about the particle vibrations and resonance - we just need to know our food will be warm
 
-# Inheritance
+### Inheritance
 The ability to inherit behaviour and characteristics from a parent class.
+
+### Polymorphism
+Ability to change the form of methods and or characteristiccs of subclasses and /objects
+
+### Encapsulation
+The ability to restrict visibility and access to methods or characteristics
