@@ -29,3 +29,11 @@ It is a specific example of a class. It is not the class. It is unique but can b
 
 ### Methods
 are functions that can be used of/on a object of a specific class
+
+### Abstraction
+Is hiding complexity from the user and exposing useful/necessary parts to get something done.
+
+An example would be turning on a microwave using the start button. We don't need to know about the particle vibrations and resonance - we just need to know our food will be warm
+
+# Inheritance
+The ability to inherit behaviour and characteristics from a parent class.
